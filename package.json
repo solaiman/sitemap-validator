@@ -1,0 +1,15 @@
+{
+  "name": "sitemap-validator",
+  "version": "1.0.0",
+  "description": "Validate Sitemap",
+  "main": "index.js",
+  "author": "Solaiman Shaikh",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.3",
+    "request": "^2.88.2",
+    "util": "^0.12.4",
+    "xml2js": "^0.4.23",
+    "yargs": "^17.3.1"
+  }
+}
